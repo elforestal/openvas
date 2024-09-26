@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ff0871c1-3d5a-4f47-9dd8-d2a7af822a88)
+
 ## Lab Outline: Azure Vulnerability Management
 
 ### Prerequisites
